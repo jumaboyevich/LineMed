@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="size_h_edt_registr">50dp</dimen>
+    <dimen name="size_w_edt_registr">150dp</dimen>
+    <dimen name="size_p_edt_registr">10dp</dimen>
+
+    <dimen name="size_txt_hint">15sp</dimen>
+
+    <dimen name="size_btn_main">130dp</dimen>
+    <dimen name="size_btn_main_logo">35dp</dimen>
+    <dimen name="p_btn_main">25dp</dimen>
+    <dimen name="size_btn_main_large">310dp</dimen>
+
+
+</resources>

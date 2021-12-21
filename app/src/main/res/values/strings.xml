@@ -2,4 +2,9 @@
     <string name="app_name">LineMed</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="s_order_search">Қидириш</string>
+    <string name="s_order_sections">Бўлимлар</string>
+    <string name="s_order_all_products">Барчаси ></string>
+    <string name="s_order_item_product_add">Саватчага қўшиш</string>
 </resources>
